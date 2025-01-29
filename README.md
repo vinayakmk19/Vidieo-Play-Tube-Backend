@@ -62,39 +62,57 @@ npm run dev
 The server will start on http://localhost:8000.
 
 ## 📦 Dependencies
-Package  Version
+Package      Version
 
-express  ^4.19.2
+express      ^4.19.2
 
-mongoose	^8.5.3
-bcrypt	^5.1.1
+mongoose	   ^8.5.3
+
+bcrypt	      ^5.1.1
+
 jsonwebtoken	^9.0.2
-multer	^1.4.5-lts.1
+
+multer	    ^1.4.5-lts.1
+
 cloudinary	^2.4.0
-cors	^2.8.5
-dotenv	^16.4.5
+
+cors	      ^2.8.5
+
+dotenv	    ^16.4.5
+
 cookie-parser	^1.4.6
+
 mongoose-aggregate-paginate-v2	^1.1.2
 
 
 ## 📌 Features
 ✔ User Authentication (JWT)
+
 ✔ Video Upload & Streaming
+
 ✔ Secure API Endpoints
+
 ✔ MongoDB for Data Storage
+
 ✔ Cloudinary for Media Hosting
+
 ✔ CORS Support
 
 
 ## 🏗 Tech Stack
 Backend: Node.js, Express.js, Mongoose
+
 Database: MongoDB
+
 Cloud Storage: Cloudinary
+
 Authentication: JSON Web Token (JWT)
 
 ## 📩 Contact
 📧 Vinayak Kamble - vinayakmkgen@gmail.com
+
 🔗 GitHub: [github.com/your-username](https://github.com/vinayakmk19)
+
 
 Made with ❤️ by Vinayak Kamble
 
