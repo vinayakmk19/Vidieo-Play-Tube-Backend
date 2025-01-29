@@ -40,13 +40,19 @@ PASSWORD=
 CORS_ORIGIN=*
 
 ACCESS_TOKEN_SECRET=
+
 ACCESS_TOKEN_EXPIRY=1d
+
 REFRESH_TOKEN_SECRET=
+
 REFRESH_TOKEN_EXPIRY=10d
 
 CLOUDINARY_URL=
+
 CLOUDINARY_CLOUD_NAME=
+
 CLOUDINARY_API_KEY=
+
 CLOUDINARY_API_SECRET=
 
 ### 4️⃣ Start the Server
@@ -56,8 +62,10 @@ npm run dev
 The server will start on http://localhost:8000.
 
 ## 📦 Dependencies
-Package	Version
-express	^4.19.2
+Package  Version
+
+express  ^4.19.2
+
 mongoose	^8.5.3
 bcrypt	^5.1.1
 jsonwebtoken	^9.0.2
